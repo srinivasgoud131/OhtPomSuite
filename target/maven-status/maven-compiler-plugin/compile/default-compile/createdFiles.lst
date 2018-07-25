@@ -1,0 +1,17 @@
+com\oht\qa\pages\ProductsPage.class
+com\oht\qa\pages\MyTownPage.class
+com\oht\qa\pages\PaymentPage.class
+com\oht\qa\base\TestBase.class
+com\oht\qa\pages\AboutUsPage.class
+com\oht\qa\pages\HomePage.class
+com\oht\qa\pages\LoginPage.class
+com\oht\qa\pages\FAQsPage.class
+com\oht\qa\pages\RegistrationPage.class
+com\oht\qa\pages\ShoppingCartPage.class
+com\oht\qa\utils\TestUtil.class
+com\oht\qa\pages\ContactPage.class
+com\oht\qa\pages\MyAccountPage.class
+com\oht\qa\pages\MyOrdersPage.class
+com\oht\qa\pages\NewAddressPage.class
+com\oht\qa\pages\TermAndCondPage.class
+com\oht\qa\utils\Xls_Reader.class
